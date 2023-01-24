@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drawingPerson/static/css/main.377f1107.css",
+    "main.js": "/drawingPerson/static/js/main.6ee51c9d.js",
+    "static/js/787.1236fd91.chunk.js": "/drawingPerson/static/js/787.1236fd91.chunk.js",
+    "index.html": "/drawingPerson/index.html",
+    "main.377f1107.css.map": "/drawingPerson/static/css/main.377f1107.css.map",
+    "main.6ee51c9d.js.map": "/drawingPerson/static/js/main.6ee51c9d.js.map",
+    "787.1236fd91.chunk.js.map": "/drawingPerson/static/js/787.1236fd91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.377f1107.css",
+    "static/js/main.6ee51c9d.js"
+  ]
+}
